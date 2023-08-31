@@ -22,7 +22,7 @@ chmod +x gm-installer
 
 The gm installer will start an interactive shell and will ask for few options , please give informations accordingly . If you need SSL , please give gdm a domain name while installing instead of IP address , Point the Domain to the IP addrress and it will automatically install SSL certificates using LetsEncrypt 
 
-Once the installation Finishes Please goto the IP address of Galera manager i.e for me http://192.168.1.1-5
+Once the installation Finishes Please goto the IP address of Galera manager i.e for me http://192.168.1.105
 
 &nbsp;
 
